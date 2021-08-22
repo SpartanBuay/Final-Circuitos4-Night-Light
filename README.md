@@ -483,3 +483,7 @@ funcionamiento diferente que explicara más adelante.
 
     }
   
+## **Autores**🤖
+  - Justin Peralta
+  - Natalia Carvajal
+  - Pablo Salazar
